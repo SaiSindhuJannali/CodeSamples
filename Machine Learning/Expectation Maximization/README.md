@@ -1,2 +1,5 @@
-# CodeSamples
-This repository contains the code samples of all the projects that I have worked on. The individual files have a brief description about the code and it's purpose.
+# CodeSamples - Expectation Maximization
+
+This project is a demonstration using Expectation Maximization on Old Faithful Geyser data.
+
+To run this project, Open the EM.ipynb using Jupyter and cleck on Run All
