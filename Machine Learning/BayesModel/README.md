@@ -1,2 +1,5 @@
-# CodeSamples
-This repository contains the code samples of all the projects that I have worked on. The individual files have a brief description about the code and it's purpose.
+# CodeSamples - BAYES MODEL
+
+This project is a demonstration using Bayes Model to classify SPAM/ NO SPAM email. 
+
+To run this project, Open the BayesModel.ipynb using Jupyter and cleck on Run All
