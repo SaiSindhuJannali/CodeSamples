@@ -1,2 +1,5 @@
-# CodeSamples
-This repository contains the code samples of all the projects that I have worked on. The individual files have a brief description about the code and it's purpose.
+# CodeSamples - LOGISTIC REGRESSION
+
+This project classifies and predicts if a student got admitted or not based on different scores.
+
+To run this project, Open the LogisticRegression.ipynb using Jupyter and click on Run All
